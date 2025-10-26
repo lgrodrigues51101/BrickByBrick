@@ -1,0 +1,9 @@
+# .clang-format
+# Base the style on Google's conventions
+BasedOnStyle: Google
+
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+
+ColumnLimit: 160
